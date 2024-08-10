@@ -1,9 +1,8 @@
 
 ## Visualization
+The dashboards are in form of pdfs and continuation for water accesibilty  project
 ### National Scale
-We will use the power BI to visualize to help our President and provincial leader see the output at the national level for the president and provincial level for our provincial levels.
-- For national it will show The map of Majindogo the split between access to water between both rural and urban areas. The total number 
-   of each type of water source for every town counts the different sources by type.
+- For national it will show The map of Majindogo the split between access to water between both rural and urban areas. The total number  of each type of water source for every town counts the different sources by type.
 ### Visualizing Queues
 We will add these plots to the Queues page
  1. Average queue time per hour of the day as a line plot.
